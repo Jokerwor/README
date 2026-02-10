@@ -3,7 +3,7 @@
 # Hi, I'm Rishi 👋
 
 Artificial Intelligence undergraduate at the University of Lucknow.
-I enjoy building real-world applications using JavaScript, Python and chatbot technologies.
+I enjoy building real-world applications using Python and chatbot technologies.
 
 ## Skills
 - Python
@@ -24,3 +24,4 @@ I enjoy building real-world applications using JavaScript, Python and chatbot te
 - Software development practices
 
 📫 Contact: srivastavrishi89@gmail.com
+   Linkedin: https://www.linkedin.com/in/rishi-kumar-srivastav-
