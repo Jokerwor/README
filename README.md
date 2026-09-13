@@ -1,27 +1,59 @@
-# README
+<div align="center">
 
-# Hi, I'm Rishi 👋
+# Hi 👋, I'm Rishi Kumar Srivastav
 
-Artificial Intelligence undergraduate at the University of Lucknow.
-I enjoy building real-world applications using Python and chatbot technologies.
+### Frontend Developer | AI & Machine Learning Undergraduate | DSA Enthusiast
 
-## Skills
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+%26+Machine+Learning+Student;Building+Interactive+Web+Applications;DSA+Enthusiast;Always+Learning+New+Technologies" />
+
+<p>
+<a href="https://github.com/Jokerwor"><img src="https://img.shields.io/github/followers/Jokerwor?label=Followers&style=social"></a>
+<a href="https://leetcode.com/u/rishi_srivastav/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode"></a>
+<a href="https://www.linkedin.com/in/rishi-kumar-srivastav-"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 AI & Machine Learning undergraduate at the University of Lucknow.
+
+💻 Frontend developer passionate about building responsive, user-friendly, and interactive web applications.
+
+🤖 Interested in Artificial Intelligence and Machine Learning, and actively learning to integrate AI into modern web applications.
+
+🚀 Currently preparing for Frontend Developer, Software Development, and AI/ML internship opportunities.
+
+---
+
+# 💻 Skills
+
+### Languages
 - Python
+- Java
 - JavaScript
-- HTML, CSS, Tailwind
-- Git & GitHub
-- REST APIs
-- Rasa Chatbot Development
+- SQL
+- HTML5
+- CSS3
 
-## Projects
-🔹 BLW MediAssist – Web-based chatbot assistant  
-🔹 Rasa Women Health Assistant – conversational AI chatbot  
-🔹 Netflix UI Clone – responsive frontend web application
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+- Responsive Web Design
 
-## Currently Learning
-- Backend development
-- API integration
-- Software development practices
+### AI / ML
+- NumPy
+- Pandas
+- Scikit-learn
+- NLP Fundamentals
 
-📫 Contact: srivastavrishi89@gmail.com
-   Linkedin: https://www.linkedin.com/in/rishi-kumar-srivastav-
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
